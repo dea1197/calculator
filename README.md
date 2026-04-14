@@ -12,6 +12,7 @@ https://dea-kalkulator.netlify.app/<br>
 ![Screenshot](images/Screenshot_1.png)<br>
 
 ✨ Features<br>
+
 ➕ Addition<br>
 ➖ Subtraction<br>
 ✖️ Multiplication<br>
@@ -22,6 +23,7 @@ https://dea-kalkulator.netlify.app/<br>
 🎨 Modern UI design<br>
 
 🛠️ Technologies Used<br>
+
 Technology	Description<br>
 HTML	Structure of the calculator<br>
 CSS	Styling and layout<br>
@@ -43,7 +45,8 @@ calculator-app/<br>
 │── script.js<br>
 │── screenshot.png<br>
 
-💡 Future Improvements<br>
+💡 Future Improvements----<br>
+
 ⌨️ Keyboard support<br>
 🌙 Dark / Light mode toggle<br>
 📱 Fully responsive design<br>
