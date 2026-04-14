@@ -1,18 +1,18 @@
-🧮 Calculator App<br>
+🧮 <b>Calculator App</b><br>
 
 A clean and modern Calculator App built using HTML, CSS, and JavaScript.<br>
 This project performs basic arithmetic operations with a simple and user-friendly interface.<br>
 
-🚀 Live Demo<br>
+🚀 <b>Live Demo</b><br>
 
 https://dea-kalkulator.netlify.app/<br>
 
-📸 Preview<br>
+📸 <b>Preview</b><br>
 
 ![Screenshot](images/Screenshot_1.png)<br>
 
 
-✨ Features------<br>
+✨ <b>Features------</b><br>
 
 <ul>
   <li>➕ Addition</li>
@@ -24,14 +24,16 @@ https://dea-kalkulator.netlify.app/<br>
   <li>🎨 Modern UI design</li>
 </ul>
 
-🛠️ Technologies Used-------------<br>
+🛠️ <b>Technologies Used-----------</b><br>
 
 Technology	Description :<br>
-HTML	Structure of the calculator<br>
-CSS	Styling and layout<br>
-JavaScript	Logic and functionality<br>
+<ul>
+  <li>HTML	Structure of the calculator</li>
+  <li>CSS	Styling and layout</li>
+  <li>JavaScript	Logic and functionality</li>
+</ul>
 
-🎯 How to Use<br>
+🎯 <b>How to Use</b><br>
 Click the number buttons to input values<br>
 Choose an operator (+, -, ×, ÷)<br>
 Press = to see the result<br>
@@ -40,25 +42,26 @@ Use:<br>
 C to clear all input<br>
 ← to delete last character<br>
 
-📂 Project Structure<br>
+📂 <b>Project Structure</b><br>
 calculator-app/<br>
 │── index.html<br>
 │── style.css<br>
 │── script.js<br>
 │── screenshot.png<br>
 
-💡 Future Improvements------<br>
+💡 <b>Future Improvements------</b><br>
+<ul>
+  <li>⌨️ Keyboard support</li>
+  <li>🌙 Dark / Light mode toggle</li>
+  <li>📱 Fully responsive design</li>
+  <li>🧠 Advanced operations (%, √, etc.)</li>
+</ul>
 
-⌨️ Keyboard support<br>
-🌙 Dark / Light mode toggle<br>
-📱 Fully responsive design<br>
-🧠 Advanced operations (%, √, etc.)<br>
-
-🙌 Author<br>
+🙌 <b>Author</b><br>
 Created by Dea
 
 Aspiring Frontend Developer 🚀<br>
 
-⭐ Support<br>
+⭐ <b>Support</b><br>
 
 If you like this project, don’t forget to star this repository ⭐
