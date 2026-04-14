@@ -11,20 +11,22 @@ https://dea-kalkulator.netlify.app/<br>
 
 ![Screenshot](images/Screenshot_1.png)<br>
 
-✨ Features<br>
 
-➕ Addition<br>
-➖ Subtraction<br>
-✖️ Multiplication<br>
-➗ Division<br>
-🧹 Clear button (C)<br>
-⬅️ Delete last input<br>
-⚡ Real-time calculation<br>
-🎨 Modern UI design<br>
+✨ Features------<br>
 
-🛠️ Technologies Used<br>
+<ul>
+  <li>➕ Addition</li>
+  <li>➖ Subtraction</li>
+  <li>✖️ Multiplication</li>
+  <li>🧹 Clear button (C)</li>
+  <li>⬅️ Delete last input</li>
+  <li>⚡ Real-time calculation</li>
+  <li>🎨 Modern UI design</li>
+</ul>
 
-Technology	Description<br>
+🛠️ Technologies Used-------------<br>
+
+Technology	Description :<br>
 HTML	Structure of the calculator<br>
 CSS	Styling and layout<br>
 JavaScript	Logic and functionality<br>
@@ -45,7 +47,7 @@ calculator-app/<br>
 │── script.js<br>
 │── screenshot.png<br>
 
-💡 Future Improvements----<br>
+💡 Future Improvements------<br>
 
 ⌨️ Keyboard support<br>
 🌙 Dark / Light mode toggle<br>
